@@ -44,101 +44,101 @@ Here are examples of some important queries used in the project:
 
 1. "Show each customer’s total number of orders."
 
-![](Outputs/Q1.png)
+![](Output/Q1.png)
 
 2. "Total revenue per customer."
 
-![](outputs/q2.png)
+![](Output/Q2.png)
 
 
 3. "Most sold books with quantity > 30."
 
 
-![](outputs/q3.png)
+![](Output/Q3.png)
 
 
 4. "Top 5 authors by revenue."
 
 
-![](outputs/q4.png)
+![](Output/Q4.png)
 
 
 5. "What is the revenue generated each month in 2024?"
 
 
-![](outputs/q5.png)
+![](Output/Q5.png)
 
 6. "Which books have never been sold?"
 
 
-![](outputs/q6.png)
+![](Output/Q6.png)
 
 7. "What is the highest value single order?"
 
 
-![](outputs/q7.png)
+![](Output/Q7.png)
 
 8. "What are the 5 least sold books?"
 
 
-![](outputs/q8.png)
+![](Output/Q8.png)
 
 9. "Which customers never placed an order?"
 
 
-![](outputs/q9.png)
+![](Output/Q9.png)
 
 10. "Which book has the highest average price (based on orders)?"
 
 
-![](outputs/q10.png)
+![](Output/Q10.png)
 
 11. "Which orders contain more than 5 different books?"
 
 
-![](outputs/q11.png)
+![](Output/Q11.png)
 
 12. "Who are the top 3 customers by number of books purchased?"
 
 
-![](outputs/q12.png)
+![](Output/Q12.png)
 
 13. "Which orders were worth less than ₹200?"
 
-![](outputs/q13.png)
+![](Output/Q13.png)
 
 14. "What is the average gap between orders for each customer?"
 
 
-![](outputs/q14.png)
+![](Output/Q14.png)
 
 15. "What is the reorder rate for each book?"
 
 
-![](outputs/q15.png)
+![](Output/Q15.png)
 
 16. "Who are the top 3 authors by number of books sold?"
 
-![](outputs/q16.png)
+![](Output/Q16.png)
 
 17. "Which customer made the single largest order?"
 
 
-![](outputs/q17.png)
+![](Output/Q17.png)
 
 18. "How many orders were placed each day in the last 30 days?"
 
-![](outputs/q18.png)
+![](Output/Q18.png)
 
 19. "Which customers spent less than ₹500 in total?"
 
 
-![](outputs/q19.png)
+![](Output/Q19.png)
 
 20. "Which 3 customers ordered the most expensive books (by book price)?"
 
 
-![](outputs/q20.png)
+![](Output/Q20.png)
 
 👉 Full list of *20+ analytical queries* available in [LIBRARY_MANAGEMENT_CODE.sql](library_management_code.sql)
 
