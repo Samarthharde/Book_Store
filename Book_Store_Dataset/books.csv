@@ -1,0 +1,901 @@
+book_id,title,author_id,price,stock_qty,year_published
+1,True task democratic successful,20,37.92,3,2018
+2,Feel check character may,18,45.89,9,2005
+3,Pressure relationship,88,60.37,24,1996
+4,Able now positive reduce,16,40.63,0,2001
+5,Simple agency follow,26,70.6,4,2021
+6,Interest statement player last star,67,75.91,2,2001
+7,Serve clear between,50,61.0,25,2014
+8,Painting house bed appear think,66,10.74,12,1984
+9,Structure win yeah clear,89,68.75,25,2004
+10,Time institution that rest popular,40,79.96,36,2003
+11,During yeah probably baby,82,14.49,29,2017
+12,Still government suggest let to,68,23.36,7,1991
+13,Citizen enter hundred movie,98,63.32,16,1988
+14,News social general,72,57.93,15,2003
+15,Big since theory each,87,58.0,5,2005
+16,Identify just any,3,15.93,38,1985
+17,Wait employee professional more common,79,48.95,16,2015
+18,Sign campaign manage everyone,3,46.56,0,1987
+19,American senior,61,10.08,32,2023
+20,Hand two,52,44.01,6,2003
+21,Dog place window something,22,12.76,29,2021
+22,Safe true,14,60.72,3,2010
+23,Name game reflect,37,14.08,14,1994
+24,Technology rate there,55,78.25,37,2003
+25,Street military thing,94,40.98,24,2008
+26,Affect someone make,90,20.62,18,2006
+27,Old huge nature issue,11,56.88,20,1984
+28,Past agree federal collection,12,12.45,36,1980
+29,Upon prevent bill professional school,7,57.34,3,1986
+30,Could TV upon,64,48.87,23,1981
+31,Couple talk,93,22.36,23,1983
+32,According nor authority able,20,34.36,18,2016
+33,Research time wrong difficult,61,21.44,40,1994
+34,Professor peace majority thing,91,57.79,11,1982
+35,Kid tell investment within,11,10.84,11,2019
+36,Throughout bad,61,35.51,39,2018
+37,Will fly garden where,61,28.83,29,2023
+38,Especially partner list move,89,55.78,21,2020
+39,Maybe others,30,70.77,27,2000
+40,Manager fly girl,77,70.69,28,1999
+41,Blood return out still,33,68.2,10,2002
+42,Surface prove admit,20,36.85,39,1996
+43,Network by purpose,86,55.39,3,1998
+44,Market seek dream,11,38.31,7,2002
+45,Resource good reduce,100,60.32,28,1998
+46,Attack picture amount with,6,75.88,23,1985
+47,Community raise material general,25,26.68,39,1994
+48,Total fill lot,57,65.26,25,2016
+49,Budget common,99,64.84,38,2008
+50,Majority mouth,49,47.35,24,1980
+51,Research democratic method miss now,68,32.42,31,1985
+52,Sense language born wait range,59,31.08,2,2003
+53,Whatever number ball feeling,67,30.88,25,2013
+54,Admit skin condition cultural,66,15.52,17,2017
+55,Enjoy member poor,79,12.44,3,1993
+56,Worker several statement major campaign,44,45.23,10,1998
+57,Measure bill size here,95,13.16,22,2008
+58,Former quickly character,33,28.59,1,2016
+59,Want learn continue election,80,50.43,27,1993
+60,Medical only participant environment,24,28.09,15,2000
+61,Budget them value,19,78.18,37,1986
+62,Modern term activity,13,73.1,5,1983
+63,House actually,90,46.27,4,2014
+64,Religious would without environmental meet,33,38.73,27,2012
+65,Nice want democratic,79,48.77,20,2018
+66,All official,29,67.3,4,1995
+67,Despite minute check throw,46,67.87,26,1987
+68,Suffer management stay,65,56.62,3,2022
+69,Quality citizen must good,59,60.62,12,2021
+70,Song laugh,36,58.52,34,1980
+71,Rich well forget,98,12.79,9,1989
+72,Dinner know side pretty,85,70.09,16,1989
+73,Determine bring,45,53.13,31,2022
+74,Them dream rich movie civil,18,10.61,21,1998
+75,Middle could debate on only,70,67.84,36,2013
+76,Blue natural work act,62,74.5,35,1986
+77,Agreement happy final,92,52.68,4,1998
+78,Focus organization,61,78.02,16,2018
+79,Often rather suffer miss prevent,94,47.79,28,1999
+80,Law toward movie decade raise,50,10.34,11,2017
+81,You best national,32,75.48,6,2010
+82,Provide adult see,93,48.34,16,2023
+83,Force man,61,79.07,11,1985
+84,Wait according western,34,40.08,29,1991
+85,True take help continue,64,33.52,3,1997
+86,Light eye do beautiful,45,66.04,39,1991
+87,Teacher order,55,41.22,27,2019
+88,Around family store,65,46.29,39,2009
+89,Believe country investment common,76,79.52,33,2009
+90,Rather save hard skill artist,61,33.15,17,2001
+91,Myself think wrong imagine,66,28.06,28,1998
+92,Notice give,9,26.49,0,1987
+93,President system act provide,79,74.83,8,2017
+94,Tonight inside moment social,89,78.86,26,1980
+95,Politics kitchen step,89,32.98,38,2007
+96,None run north,24,58.68,21,2022
+97,Its concern again attention,9,79.15,37,1993
+98,Visit attack city soldier,33,36.38,15,2013
+99,Under author kind property her,78,11.91,9,1997
+100,Sell fund raise,68,30.04,18,2010
+101,Candidate tend success,78,26.97,22,2006
+102,Management push simple,16,74.48,4,2003
+103,Believe candidate,53,48.81,25,1988
+104,Pull summer evidence member most,91,19.26,15,1983
+105,Between natural degree,60,11.98,26,2001
+106,Good level all,79,27.66,1,2000
+107,Source open,30,17.15,2,1988
+108,Establish low,91,19.14,40,1999
+109,Score cause common,31,27.37,13,2008
+110,Anyone now happy,87,22.34,31,1984
+111,Past prevent,69,38.97,10,1998
+112,Some avoid subject production,39,41.96,22,2006
+113,Mean car affect imagine watch,25,70.31,6,1988
+114,Each you draw move,81,15.35,34,1980
+115,As head eat,63,48.12,11,2015
+116,Minute what word wide article,63,47.77,3,2005
+117,Writer occur among,54,15.43,19,2002
+118,Resource hundred thought guy,80,70.32,21,2012
+119,Enjoy kid yard series,52,36.37,22,2007
+120,Provide decide range,42,59.61,18,1985
+121,Personal executive perform price,67,75.11,10,2020
+122,Plan training sometimes,71,57.65,11,2001
+123,Design group,18,15.32,10,2022
+124,Him since another,67,59.34,24,2007
+125,Fly care,75,12.91,20,2019
+126,Glass person hotel east,35,37.31,38,2013
+127,Stay gun reason gas,98,31.71,34,2012
+128,Program you stop seem performance,21,79.55,34,1998
+129,Too thought car statement,58,71.84,21,1989
+130,Person but employee reveal from,6,26.98,14,2023
+131,Too dog why despite,22,67.01,34,2015
+132,Our significant attorney,59,16.38,10,1993
+133,Including yes job,96,21.15,1,1993
+134,Difference sport resource project level,56,76.13,33,2007
+135,How party,38,18.87,28,2010
+136,Thank road view political,70,37.24,27,2014
+137,Letter push in his one,90,56.44,21,1991
+138,While environment because form true,61,20.08,29,2004
+139,Maintain quality enough will,4,60.57,9,1980
+140,Capital view practice,65,79.58,30,2008
+141,Top condition left seven use,72,25.85,17,2008
+142,Court such,11,76.96,0,2006
+143,Specific news industry kid,24,56.61,14,1994
+144,Enough develop,35,54.64,22,2020
+145,Usually off discuss,91,35.78,15,2001
+146,Base leave to our,55,22.14,8,2008
+147,Third message,64,55.1,2,1983
+148,Ready whom arrive choose,33,33.14,21,2013
+149,Understand new,46,59.4,30,1993
+150,Newspaper tend house,8,75.91,29,1994
+151,Sell treatment dog,96,54.52,8,1990
+152,Attorney thank significant,71,34.11,28,1981
+153,Commercial almost,40,59.64,16,1982
+154,None author agent,98,60.88,9,2001
+155,Us chance month well usually,44,33.64,26,2013
+156,Ability usually room the,78,60.85,14,2017
+157,Use each chance,58,72.47,29,2021
+158,Trip develop total,5,30.52,6,2006
+159,Check data,62,77.97,34,1984
+160,Receive clear center across home,47,65.21,26,2020
+161,Candidate behind where,37,37.98,29,1994
+162,If against especially talk range,68,37.37,21,2004
+163,School economy real participant,78,10.71,17,2012
+164,Option ten company,86,74.92,16,2022
+165,One parent against smile,56,44.96,14,1993
+166,Today another wide,24,59.82,39,1984
+167,Administration player college,89,21.41,34,2018
+168,Return you car necessary,43,34.66,29,2008
+169,Make tend to degree moment,4,10.74,27,1990
+170,Face difficult entire avoid,31,57.42,16,2000
+171,His entire party,75,68.82,17,1990
+172,General fall central act smile,54,29.22,31,2006
+173,What who dinner certainly,4,54.53,38,2000
+174,Million set mother,27,14.14,8,1983
+175,Will participant hospital,29,70.16,15,2016
+176,Will subject fight later,66,12.03,7,1995
+177,Provide score evening,93,76.17,31,1985
+178,Style career job,98,36.31,34,1994
+179,Indicate structure,32,34.91,35,2019
+180,Development wait short,7,32.43,35,1984
+181,Attack protect design security wind,5,47.86,1,1987
+182,Past four sign,47,67.3,13,2009
+183,Green challenge certainly,36,68.64,12,2000
+184,Government including,52,42.09,8,2020
+185,Cut possible member water,84,41.49,10,2012
+186,Should right eat place,99,42.26,20,2004
+187,Show reduce direction social spend,47,52.57,39,2003
+188,Face among speech too,60,58.78,37,2022
+189,Across city remember,38,34.74,31,2001
+190,Show next news industry,73,34.03,36,2003
+191,Bill local what ability,48,11.78,21,2000
+192,Major represent lot plan,84,26.8,40,2004
+193,Mind contain trade,18,49.42,40,1985
+194,Across also,57,18.03,32,2003
+195,Activity become article any note,37,72.83,35,1994
+196,Stand though both,80,34.15,10,2000
+197,Culture where,17,61.73,23,1989
+198,Loss black boy face let,8,75.97,33,2021
+199,Successful international experience area bad,65,21.48,4,2005
+200,Computer example cause great,84,31.93,4,2019
+201,Happy develop lot now,81,59.68,5,1999
+202,Become production city war turn,48,44.4,18,2000
+203,Growth product,20,14.2,13,1982
+204,Remember dinner artist,86,19.49,40,2004
+205,Very trip forget effort,98,53.61,16,2009
+206,If consider such young type,26,11.8,35,1989
+207,If fine consider eight,39,76.57,12,2003
+208,Child to study,88,70.08,11,1985
+209,Address second,22,61.65,18,1998
+210,Site better always,2,61.57,11,2017
+211,Its art,26,79.91,27,1994
+212,Road scene learn and,38,55.08,1,2016
+213,Action event we,33,16.32,5,2015
+214,Democratic give me speech he,5,35.32,10,2002
+215,Daughter simple matter,62,50.02,37,2016
+216,Green whatever,8,59.52,18,2010
+217,Seek visit economy,78,73.92,5,1988
+218,Rate police both,84,26.57,9,2000
+219,Probably kid,39,38.46,5,2015
+220,Note there act,77,16.09,7,1993
+221,Less travel respond,39,61.87,14,1996
+222,Notice responsibility probably friend manager,65,59.7,30,1984
+223,Respond hit few strong miss,26,25.0,39,2007
+224,Interest right,89,22.31,29,2007
+225,Hold speak current,70,39.12,11,2011
+226,Central doctor factor budget,31,30.32,8,1987
+227,Leg win,99,18.15,1,1990
+228,Current share floor director or,80,16.04,13,2012
+229,Entire under agreement,11,79.58,2,1985
+230,Environmental place door cell,38,51.44,19,2015
+231,Consider again team technology hospital,5,21.39,33,2018
+232,Investment stuff believe,7,48.92,33,1984
+233,Next single,75,36.59,26,1999
+234,Father line whole,47,21.04,7,2016
+235,Wide over study wife,14,57.33,37,1982
+236,History ten minute marriage factor,66,20.79,13,1992
+237,Cup research poor,42,37.48,35,1993
+238,Score tonight minute garden situation,13,40.96,9,1994
+239,Fly someone memory,98,40.17,40,2005
+240,Now huge claim,63,13.77,19,1984
+241,Great rich think,62,15.96,13,2015
+242,Their region,73,16.46,7,2012
+243,Determine section sort ask,98,43.54,2,2000
+244,Available green can,4,17.84,13,1990
+245,Rich free low,3,63.44,15,1997
+246,Away environment show water,34,51.47,27,1981
+247,Station upon picture can tough,64,15.36,33,2010
+248,Similar through bit guy,99,37.36,3,2011
+249,Into happen control,59,34.27,9,2002
+250,Price say able bring rather,91,70.18,29,1989
+251,Wife today bill,29,15.27,24,1993
+252,A boy adult fear,16,37.61,12,2022
+253,Trade great police nation,64,77.18,32,1984
+254,Brother whose service wear,12,55.66,3,2000
+255,Among most for begin,99,72.22,28,1981
+256,Try television crime husband break,25,63.18,36,2019
+257,Long art five,49,70.18,13,1983
+258,Let with easy left day,55,37.93,29,1981
+259,Because seven,2,34.18,38,1997
+260,Police training want,52,73.98,25,2005
+261,Baby article industry history,88,52.32,8,1995
+262,True across decide new,28,58.3,3,1981
+263,People newspaper seven once,64,17.57,20,2013
+264,Investment whole article occur,2,64.69,37,2011
+265,Well power response nothing,9,29.2,3,2015
+266,Form send,54,23.85,11,1993
+267,Congress reality program,39,25.08,1,2005
+268,Air heavy point from through,44,72.27,31,1998
+269,Eight similar shake high,37,71.72,34,2013
+270,Address ago easy,71,23.49,10,1995
+271,Final go,60,33.45,0,2016
+272,Term amount send,64,23.06,33,2000
+273,Fine ten peace,70,68.69,9,2023
+274,Movement security rate nature size,48,48.53,21,1997
+275,At face image,46,32.15,7,1993
+276,In imagine eight still ever,80,63.85,36,2006
+277,Both other at,4,77.47,19,2013
+278,Him that,22,64.48,15,2007
+279,Book my once call she,64,47.99,13,2015
+280,Cultural address,91,44.23,25,2016
+281,Production again perhaps,82,23.48,15,2014
+282,Free carry,3,12.28,15,2006
+283,Find check easy one newspaper,33,40.73,33,1999
+284,Central almost,53,39.48,17,2013
+285,Manage actually word cost end,56,61.66,17,1986
+286,Thus reflect culture,51,26.16,5,1988
+287,Recognize five,5,38.02,6,2009
+288,Dog to recently others,43,34.16,10,2016
+289,Billion economic cost these,57,43.66,2,1987
+290,Year where still this ability,34,35.08,19,1980
+291,Evidence tonight respond,66,17.24,17,1996
+292,Yeah of evidence area agree,11,35.89,11,2014
+293,Head sort reach current,15,59.47,13,2004
+294,Right part,9,15.09,34,2004
+295,Meet loss political,16,17.14,24,1981
+296,South young his bag,26,71.42,4,1985
+297,Consider candidate cover,67,52.53,25,1981
+298,Suffer establish start,43,33.92,40,1997
+299,Listen final magazine,49,77.99,16,1991
+300,Get save,95,37.88,15,2004
+301,Owner ground somebody,65,62.71,14,2011
+302,Notice book interesting,58,16.27,17,1981
+303,Popular become change,26,30.3,17,2020
+304,Chair turn son,88,32.03,21,2016
+305,White house,46,57.22,27,1981
+306,Throughout she play,2,26.16,0,1985
+307,Industry happen stuff life central,12,52.07,26,2021
+308,Yeah over great group,18,20.65,9,1994
+309,Than example,67,36.35,37,2010
+310,Deal address task finally organization,35,58.09,6,2021
+311,Arm late view,94,77.61,28,1993
+312,Student read another support,50,65.85,14,2014
+313,Similar position maybe yes,48,56.07,3,2017
+314,Mention might peace work,42,68.64,40,2008
+315,Politics chair,3,78.59,37,1992
+316,Not because there anything stay,34,12.06,38,2016
+317,Paper fight central,11,38.45,23,1982
+318,Community against cut instead,70,17.95,12,2006
+319,Thing threat bill certain,89,65.35,1,1995
+320,Great debate word theory,36,67.14,40,1996
+321,After usually nice affect,72,29.04,30,2009
+322,Yard son standard,5,11.09,26,1991
+323,Stand far else,63,74.96,21,2022
+324,Build computer energy,74,33.48,7,1999
+325,Consider between site news family,24,51.57,22,1996
+326,Size on college international,37,52.91,24,2007
+327,Teacher record father little,74,33.05,8,1985
+328,Loss choose,95,62.61,30,2002
+329,Tend spend value push,56,19.13,21,1990
+330,Reason hair argue difficult energy,65,10.54,0,1987
+331,Show beat threat,54,77.68,4,2021
+332,Feel argue east then,58,24.33,19,2009
+333,Growth woman look ability among,75,56.36,18,2000
+334,Usually article they dream,75,22.89,20,2023
+335,Design your since single,16,67.13,13,2015
+336,Top oil,30,67.63,27,1997
+337,Write minute realize,94,46.01,31,1985
+338,Property model follow,88,76.89,2,1983
+339,Term reality,12,41.15,29,2015
+340,During hotel which research discuss,14,18.78,39,1998
+341,Question off,82,55.93,28,2005
+342,Old may,10,61.64,15,1982
+343,Thousand doctor,35,71.18,36,1999
+344,Should mind whose,72,29.73,18,1991
+345,Great evening treatment party reality,81,59.39,40,1995
+346,Together moment allow,41,59.95,9,2014
+347,Lawyer same,26,54.79,30,1990
+348,Face similar adult PM,87,47.44,30,2002
+349,Use how probably nature,52,56.09,36,2015
+350,Sing many recently,16,56.17,3,1988
+351,Apply research beautiful whom couple,54,71.97,24,1997
+352,Guy know must usually official,82,41.94,30,1986
+353,Economic cost,11,33.92,35,1988
+354,Win area foot,94,61.03,4,2013
+355,Home operation blood,60,77.19,33,2018
+356,Wear listen state,36,15.11,0,2011
+357,Cup member catch other modern,94,50.38,7,2006
+358,Project rule west,16,15.32,25,1996
+359,Project scene star place place,33,36.73,5,1986
+360,Glass fact,75,69.94,15,1983
+361,Agree care board,98,50.36,23,1999
+362,Star read industry,23,61.2,19,2011
+363,Give next order only,28,77.17,33,2014
+364,Effort cup product station role,84,63.58,11,1995
+365,Cause must,64,80.0,30,1998
+366,Item maintain,72,57.23,31,2009
+367,Police defense here business age,1,13.96,35,2015
+368,Front pass little not student,16,54.28,21,1995
+369,Beyond professor bit more,23,33.4,6,1990
+370,Impact center tree,12,62.57,35,1981
+371,Movie short,71,77.82,10,2005
+372,Center huge visit loss,62,50.02,37,1983
+373,By can,79,38.64,25,2006
+374,Final away,94,11.37,34,2007
+375,My carry road statement,47,73.74,13,2015
+376,Child quickly organization performance,28,68.03,23,2009
+377,Family reality everything soldier area,9,38.69,25,2022
+378,Require peace miss,68,19.35,6,1980
+379,His consider trip,2,23.22,30,1980
+380,Direction sense wish high edge,97,62.45,1,2008
+381,Pressure happy year although,6,66.75,31,2013
+382,Test condition garden,100,14.25,40,2012
+383,Agent fear thus court,97,61.32,27,2017
+384,Deep brother home lose,29,21.5,31,1982
+385,Man little participant thousand risk,74,77.47,32,1995
+386,Buy outside cost one morning,35,45.32,38,1989
+387,Recognize each expect know,87,58.67,27,2011
+388,Bit system sense,93,31.31,28,2006
+389,Themselves personal design quite,88,22.32,26,2002
+390,Partner because network,8,69.67,18,2023
+391,Often field stock,35,66.85,25,2000
+392,Where certainly approach,57,19.33,30,2005
+393,Else arm friend own,47,57.39,5,2018
+394,Arm his carry,66,21.21,6,2008
+395,Thing painting see picture,76,29.0,30,2016
+396,Less without,45,10.24,2,1992
+397,Number hit,40,33.37,8,1989
+398,Message throw,8,23.01,11,2005
+399,Month remember month investment sometimes,79,79.42,14,1983
+400,Simple cup campaign,28,18.75,24,2022
+401,Low reach point per,33,34.17,23,2008
+402,Rate you,29,26.91,39,1982
+403,Culture would full,60,62.74,16,1982
+404,Next Mrs green,94,36.68,21,1985
+405,Couple other,56,46.05,9,2021
+406,College material window agent conference,20,29.02,25,2010
+407,Site task strong especially at,48,18.55,21,2015
+408,Great similar he,26,43.75,40,2016
+409,Day mention standard senior,76,78.84,3,2002
+410,Mean wish kind,27,37.96,26,2018
+411,American less,27,23.59,31,2007
+412,Real nation back,30,25.2,16,1988
+413,Series add,20,47.3,22,2005
+414,Bed job rate across simply,21,64.13,33,1994
+415,Nearly then who owner board,60,19.79,14,2011
+416,Choice born who,87,22.37,21,2017
+417,Entire necessary,27,17.14,14,1994
+418,Win blue wonder,92,43.01,3,1980
+419,Staff exist traditional trouble,70,58.5,19,1989
+420,Culture future wear,84,24.53,2,1993
+421,Area they least foreign data,96,41.2,17,1992
+422,Investment care man would need,25,26.33,12,2023
+423,Military movie current book manager,16,54.26,34,2012
+424,If particularly effect,27,47.34,23,2005
+425,Certainly respond look film early,82,63.62,5,1988
+426,He position peace indicate close,47,55.2,35,2020
+427,Remember page,2,28.86,14,2008
+428,Start affect budget pay health,13,51.47,40,2003
+429,Pull tree among different anything,97,75.47,7,2010
+430,Know hour almost,54,50.0,24,2014
+431,Test foreign decade their exactly,3,72.56,40,2004
+432,Sing ball wish might,38,35.87,22,1999
+433,Water cover avoid life issue,39,60.95,9,1986
+434,Eat bad upon,48,44.26,34,1994
+435,Republican perhaps understand,60,53.45,10,2007
+436,Let production economic board act,38,12.11,13,1989
+437,Difference study back customer,81,67.67,12,2021
+438,May bar several,78,40.01,33,2003
+439,Care leg,79,24.29,8,2013
+440,Week sort form,72,24.94,36,1982
+441,Somebody lead single item,29,52.23,39,2018
+442,Five represent single tough both,60,73.96,33,1993
+443,Whom couple go,87,24.79,23,1981
+444,Sometimes prevent face fear,31,21.55,38,2012
+445,Central try according,48,63.03,26,2002
+446,Forward herself view product deep,47,64.56,1,1988
+447,Down bar respond,43,10.82,27,2007
+448,Yourself fund ability,95,55.45,25,2020
+449,Mouth production want,86,63.72,25,2021
+450,Wall three site computer,59,25.62,19,2011
+451,Method land reality physical,54,42.97,19,2016
+452,Movie hot stock glass stuff,74,57.5,27,1995
+453,Six someone me physical,19,49.17,22,2019
+454,Chair some figure dream use,12,72.34,0,1994
+455,Year concern benefit,68,33.45,19,1989
+456,Base until discussion physical,61,36.68,9,1986
+457,Free southern nature around situation,42,34.67,25,1995
+458,Enter set baby test alone,87,40.92,13,2016
+459,Pick television season,87,79.01,14,2018
+460,Collection than,78,28.0,21,2018
+461,Great work situation,37,10.51,35,2016
+462,Should door leave find,45,32.43,18,2006
+463,Media too though,47,40.48,23,1992
+464,Now media reflect cold,10,42.9,32,2011
+465,None describe,28,12.19,9,1985
+466,Relationship no before like,3,56.35,29,1993
+467,Consider stay fight,49,57.0,14,2023
+468,First like,96,78.11,22,2004
+469,Page car business series idea,85,65.63,13,1991
+470,Gas movie,22,76.3,13,1998
+471,Clearly budget agency fear fact,65,41.64,36,1993
+472,Season include red sport,77,78.58,27,2022
+473,Occur enter far,51,10.36,6,2017
+474,Artist discuss sign trial,16,12.34,0,1999
+475,Big owner task should,71,46.36,25,1981
+476,Lawyer fire either receive,96,40.97,9,2006
+477,Detail have mention,40,31.29,28,2015
+478,By space half go,74,53.96,12,2022
+479,Would exactly between mind,61,45.99,39,2003
+480,Food action,81,75.76,5,2010
+481,Nor common usually public eye,56,65.65,39,2022
+482,Collection late hand way,3,51.96,31,1986
+483,Difference ever he painting first,54,30.48,23,2020
+484,Issue feeling season,72,17.52,18,2002
+485,Produce answer economic size,97,44.36,15,1997
+486,Rise left citizen truth range,54,40.47,36,1999
+487,Theory my her of carry,33,73.99,13,1994
+488,Foreign agent among campaign notice,70,40.83,35,1983
+489,You despite executive,96,63.97,20,1988
+490,Trial step,65,76.04,1,2022
+491,Black production,43,37.23,22,1985
+492,Score someone,71,23.4,34,1999
+493,Catch water east,95,41.46,5,2017
+494,Need method option international most,68,74.57,34,2012
+495,Cut yeah same by,31,78.37,17,1995
+496,Range total you speech,34,34.83,38,2005
+497,Collection try outside,66,32.32,13,2012
+498,Cover treatment price,6,37.65,20,1983
+499,Allow first number environment,20,26.78,32,2016
+500,Including throw field,83,51.42,24,1997
+501,Either seem product,51,66.16,40,1990
+502,Send employee case at,34,75.12,19,1994
+503,Add kitchen,46,27.58,25,2018
+504,Particular and growth plan also,43,22.38,7,1991
+505,Important thousand phone,14,58.02,24,1982
+506,Behind whatever leave almost,31,45.31,4,1980
+507,Put figure,67,48.21,13,2001
+508,Energy serve top husband,40,39.37,18,2004
+509,Officer often cell final you,55,10.05,19,2017
+510,Rock scene pattern,8,24.84,25,1996
+511,Number recent trip full,57,29.33,27,2017
+512,What despite media forward,16,56.0,5,2007
+513,Body during memory,11,23.04,7,2001
+514,Town kitchen ground,6,78.95,15,2016
+515,Including purpose,88,38.35,20,2002
+516,Bill couple pressure,71,65.21,32,1984
+517,West try,82,49.41,40,1982
+518,Who low remain expect,6,65.15,19,1987
+519,Unit physical shake similar,41,46.48,14,1993
+520,Pass senior remember area,28,36.1,34,2006
+521,Doctor allow drive or lot,92,60.06,25,1980
+522,Black Democrat ability beyond carry,13,67.04,32,2000
+523,Age one expect open,41,62.44,1,1990
+524,Attorney assume effort article,76,33.71,30,1992
+525,Agree bring home better report,67,10.81,1,1984
+526,Defense you arm material,24,69.89,22,2009
+527,Without the help wonder,13,77.42,5,2003
+528,Food more but,72,13.84,5,2018
+529,Little bit loss,38,52.53,37,1987
+530,Huge pressure require,25,73.93,40,2003
+531,Move test art general,5,71.4,21,1987
+532,Maybe face important,74,16.64,37,1994
+533,Soon something available matter worker,74,38.82,28,1985
+534,Camera fish leader region,65,40.32,31,1984
+535,Just produce able too feeling,62,10.55,0,2021
+536,Travel interest see,40,52.72,9,2018
+537,Other behavior treat debate,27,59.5,35,2003
+538,White without,3,44.33,6,2018
+539,Certain fight interesting successful,55,15.86,37,1994
+540,Shoulder in want small now,27,66.89,4,1992
+541,In interview skill staff,36,50.35,10,1988
+542,Worry newspaper,6,49.38,16,1982
+543,South budget start activity,86,13.65,13,2010
+544,Shake many,87,15.11,30,2011
+545,Even among trial who,47,46.55,22,2004
+546,Amount necessary figure able,20,60.14,16,2014
+547,Then authority,1,37.21,6,1984
+548,Machine point loss attorney,89,74.27,11,2006
+549,Activity reach line,95,19.19,2,2021
+550,Partner after Congress,30,74.18,24,2017
+551,Yeah help range,48,76.02,27,2000
+552,Face discuss charge budget culture,63,57.16,10,1987
+553,Character statement,16,48.81,3,2021
+554,Culture shoulder economic,9,47.94,7,2022
+555,Even east late do,94,19.22,14,2023
+556,Share employee traditional,79,69.06,14,1992
+557,Civil level available someone,8,22.75,22,2017
+558,Hope power station world story,96,45.56,31,2017
+559,Discussion have be prevent,93,74.07,3,2007
+560,Word herself public,20,25.48,18,2022
+561,Artist region itself entire,44,52.0,35,2022
+562,Chair decide,89,45.34,38,1986
+563,Politics stage determine money,3,71.7,24,2020
+564,Or game rather,14,49.95,25,2015
+565,Other structure agent success,7,77.68,22,1981
+566,Challenge political likely,45,21.43,4,1989
+567,If its upon,97,13.43,13,2007
+568,Audience student,1,46.32,25,1997
+569,Mind choice response see past,100,17.23,35,1980
+570,Concern network during respond turn,33,27.86,26,1982
+571,Move person record,70,59.1,39,2011
+572,Discover energy break interview recent,14,27.97,35,1995
+573,Word himself,35,39.74,20,1996
+574,Finish behind,36,49.62,22,1981
+575,Change share close child side,52,10.81,21,2012
+576,Shake memory director ever,5,38.98,8,2009
+577,Understand hit answer change almost,34,33.83,27,2018
+578,National center first,72,25.43,39,2020
+579,Stand level over say,70,74.02,22,2016
+580,May before me officer,84,12.84,16,1989
+581,Party street,78,78.8,5,1999
+582,This more son organization,19,56.56,1,1998
+583,Play move,80,35.14,28,2007
+584,Three information until effect,23,32.13,12,2023
+585,Say world wear interview truth,98,53.9,18,2009
+586,Apply work woman including,52,62.69,38,1985
+587,Challenge across,77,66.45,12,1982
+588,Dark knowledge owner dream,13,37.35,18,2011
+589,Population consumer range,18,46.71,40,2005
+590,Or start high establish,16,42.86,18,2023
+591,Responsibility candidate,92,36.27,33,2000
+592,Morning decade fly edge bill,75,73.46,8,2023
+593,Already point soon,50,19.06,28,2004
+594,Condition this leave,11,18.47,24,2004
+595,Human time for,18,63.81,34,2005
+596,Great before,56,10.55,12,1999
+597,Positive age agreement,77,46.55,17,2005
+598,Develop almost already food,71,51.61,40,2023
+599,Far head,53,43.82,2,1987
+600,Job because board detail,51,35.87,10,2011
+601,Focus politics medical evidence include,96,44.38,18,1982
+602,Reason list meet list beat,21,14.4,23,2011
+603,Born whatever charge commercial,17,24.44,9,2000
+604,Beat stay reflect,19,29.15,12,2001
+605,Successful spend doctor area hair,20,33.91,24,1982
+606,Two sometimes side attorney green,1,46.47,33,2019
+607,Religious above training,40,52.01,4,2008
+608,Turn kitchen its,24,17.56,3,2001
+609,Lead project almost spend,99,20.51,40,2003
+610,Animal general rise table real,94,72.8,21,1992
+611,Consider opportunity national represent,99,16.14,7,2012
+612,East region boy nor occur,35,36.0,26,1981
+613,Early few happy quality politics,43,52.88,39,1994
+614,Again thing agency,37,56.47,15,1989
+615,How top treat there,17,60.79,7,1980
+616,Any near,78,15.96,9,2017
+617,Way sort attorney matter,35,74.15,14,1986
+618,Material for she,36,73.61,4,1997
+619,Reflect town including check,4,66.52,34,2011
+620,Top tend claim activity each,66,25.57,12,2023
+621,Floor course can firm,82,42.59,30,2017
+622,Million enter yard,98,48.08,19,1982
+623,Enter model far without Republican,97,20.4,7,2007
+624,Without analysis tax,68,20.31,5,1993
+625,Film young matter,63,53.59,36,2023
+626,Life language should sometimes total,96,46.19,32,1986
+627,Way stay because poor almost,84,11.08,2,2023
+628,Professional develop technology,73,36.8,19,1990
+629,Leader Democrat,53,34.07,29,2013
+630,She population street part,99,53.16,27,1993
+631,Two yes probably,87,33.27,32,2010
+632,There business statement they,58,78.07,22,1988
+633,Policy whose down couple,54,24.92,19,2012
+634,Authority lawyer case keep,67,76.52,9,1992
+635,Themselves reduce rock picture while,96,63.0,31,2020
+636,Within dog fact agree professional,20,32.02,18,1991
+637,Glass though,17,54.76,12,2000
+638,Believe carry,15,14.73,29,2013
+639,Rest have,87,49.0,11,2015
+640,How miss collection,4,33.18,15,1996
+641,Learn answer,44,35.59,35,2013
+642,Evidence practice star,24,45.75,30,1990
+643,Pretty whose power someone,1,79.09,28,2005
+644,This trial itself quite,61,40.46,24,1982
+645,Which yeah couple,69,19.0,34,2011
+646,Year nearly knowledge,39,32.47,32,2008
+647,Still upon account,11,60.61,8,1983
+648,Decide by air field,81,43.08,13,1984
+649,Act agent event,88,68.94,13,2004
+650,Feel ever spend,72,35.19,12,1986
+651,Star matter rise,48,64.4,8,2005
+652,Such matter management machine everybody,17,16.67,2,2010
+653,Culture life cold,38,59.83,5,1996
+654,Enter turn,34,25.39,40,1987
+655,Expert well major,2,66.37,5,1997
+656,Travel certainly need character,37,34.88,37,2018
+657,Number film newspaper next,49,75.2,22,2009
+658,Glass hit happy necessary,40,28.99,13,1993
+659,Similar to section share,9,51.66,39,2010
+660,Economy blood down agency media,13,66.75,23,1994
+661,Behavior instead detail should,30,67.31,17,2017
+662,Hour defense,58,21.52,27,2019
+663,Measure provide,60,11.99,1,1982
+664,Season sort everybody,96,24.42,40,1999
+665,Purpose oil such human,29,30.61,38,2018
+666,Public who I increase,64,35.5,34,2002
+667,Professional management positive,71,60.19,40,1984
+668,Sometimes fine yet,94,47.15,32,1985
+669,Room ok born,61,45.82,3,1988
+670,Least difficult religious,15,35.64,37,1989
+671,Station source should finally,64,52.49,13,2009
+672,Fear shoulder eye fear job,56,78.43,14,2012
+673,Ok floor key,17,44.37,18,2017
+674,Happy there,6,76.68,13,1993
+675,Even fast form left,16,21.21,11,1994
+676,Others game activity,78,32.5,35,1982
+677,Church others attack,57,10.96,28,1993
+678,School product no just heavy,88,18.24,19,2013
+679,Avoid reflect,28,65.83,35,2009
+680,Accept tonight miss both,40,42.19,31,1996
+681,Article modern instead nor specific,1,42.13,14,2005
+682,Everything sense air few,50,38.78,22,2005
+683,Public international sign officer,2,10.26,28,2004
+684,Professional ten choice standard rock,92,19.75,35,1989
+685,Claim of safe,16,70.58,11,2023
+686,Since down capital successful especially,83,47.71,7,2017
+687,Last mean leader color mean,28,70.11,32,2006
+688,Have back,69,21.55,35,1996
+689,Control PM pass doctor,98,40.83,27,1996
+690,Cause over sound risk,91,65.33,38,1993
+691,Alone deal believe,26,69.53,19,2003
+692,Eye strategy,83,51.04,27,2016
+693,Security management perhaps,22,56.36,2,2005
+694,Real consumer occur media,52,56.21,25,1982
+695,Physical traditional meet water,35,48.02,14,1986
+696,Improve air admit white,24,24.17,16,1993
+697,Like other tonight likely,44,46.47,17,2017
+698,Save work stage,72,16.41,33,2022
+699,Mouth side,40,78.7,27,2002
+700,Perform American,13,20.78,16,1991
+701,May success including,16,12.04,24,1995
+702,Try oil ball student,60,49.01,5,2010
+703,Wrong guess appear national culture,97,59.53,19,2015
+704,History name question ability,91,60.81,14,2004
+705,Economy career age seem,33,53.81,33,1986
+706,Call building low,11,58.25,21,2017
+707,Seek me pass,45,74.8,35,2020
+708,Run energy require,91,36.06,16,1990
+709,Nice step final guy,10,53.59,31,2016
+710,Against dream red cause,97,23.81,6,1993
+711,Direction rise second,98,69.72,12,2005
+712,Fill recent agent,44,50.33,11,2011
+713,Return book apply stock,52,42.29,33,2011
+714,Can meeting popular check,61,44.17,36,1993
+715,Power through,47,65.18,27,1984
+716,Because western member,27,68.34,19,1985
+717,Training read factor pretty,63,27.98,38,1984
+718,Carry claim,75,34.22,35,1981
+719,Perform wear,71,55.67,19,1991
+720,Buy pattern,56,65.06,8,1992
+721,Foot clear be cause,26,52.55,0,2023
+722,Majority campaign heavy,63,69.47,7,2003
+723,Can nor should,4,12.32,4,1985
+724,Man image above animal late,29,52.69,21,1999
+725,Tend tough single society action,68,77.69,19,1998
+726,Protect even on glass garden,24,62.46,26,1996
+727,Although across say,64,53.29,4,1996
+728,Protect wind until side,75,52.26,5,1980
+729,Meeting sister pattern everyone first,93,46.72,25,1986
+730,Week exist federal measure,50,64.41,16,2009
+731,Truth per hit seem rock,91,52.39,19,2020
+732,Audience if since rule improve,85,52.2,5,2001
+733,Home hotel physical,62,25.69,1,2004
+734,Itself development religious,59,52.92,36,2004
+735,Message career,60,56.64,24,2008
+736,Me political simple him,24,78.45,37,2023
+737,Fall mind field,51,18.27,11,1992
+738,Beat involve consider your,59,22.68,19,1994
+739,Gas situation fast,87,22.14,23,2012
+740,Serve form federal step write,50,49.73,28,1990
+741,Including movement,35,73.78,39,2010
+742,Build enter box,14,56.52,23,2003
+743,Level prevent son,88,41.08,12,1990
+744,Tend church,99,71.35,29,1980
+745,Until forward,16,18.09,21,1999
+746,Across machine fast,87,53.3,29,2023
+747,Town share,64,24.39,11,2006
+748,Difference yes when,1,67.2,37,2007
+749,More piece ahead section,66,33.82,32,2015
+750,Style population power his state,89,47.52,35,2006
+751,Benefit scientist here level,97,14.4,33,2001
+752,Fill thus gun,87,52.35,12,2002
+753,Foot what participant fire message,65,36.5,30,2017
+754,Recent believe change,38,68.05,12,2006
+755,Dinner treat,36,29.01,31,1983
+756,Save huge full side,22,36.79,9,2011
+757,Focus church science live,51,68.78,27,2002
+758,Them necessary admit cold,77,37.56,16,2001
+759,Tend floor,67,41.11,24,2004
+760,White deep again early help,80,28.15,37,2020
+761,Heavy project against,34,78.07,5,2002
+762,Feeling control,46,68.94,15,1997
+763,Serve area level time every,57,73.5,20,2021
+764,After learn,5,60.18,8,1996
+765,Go actually business,4,64.23,15,2008
+766,One use,64,21.88,0,2015
+767,Describe plant read tell evening,93,29.1,33,2019
+768,Play stop before hear course,51,32.04,14,2021
+769,Sit evening teach range town,80,28.11,1,1995
+770,Student should central even yet,57,66.33,22,1997
+771,Create someone let it audience,71,70.68,2,2010
+772,Worker talk box option,68,10.51,14,2014
+773,Positive son phone tonight,28,23.91,34,2003
+774,Raise same learn art national,52,50.62,11,2018
+775,Treat management door buy,16,27.34,38,2004
+776,Contain development top entire,39,78.32,33,1982
+777,Recently late off,90,74.32,1,2010
+778,Rest happy,29,42.1,3,1997
+779,Whose evidence pull past,12,34.62,24,1993
+780,Investment run relate listen this,23,66.76,16,1981
+781,Talk else,41,17.24,9,2006
+782,Situation want live age,47,46.16,34,2008
+783,Management toward work,81,50.7,13,1992
+784,Visit picture,38,74.72,29,1997
+785,Project none too man,83,39.89,25,2007
+786,Music law weight,96,12.61,13,1988
+787,Future answer personal bad,63,23.76,36,2019
+788,Usually health exist,61,28.51,21,2018
+789,Itself church dinner,19,64.78,36,1998
+790,Make near decision chair,9,13.74,5,1981
+791,Open culture challenge,23,53.98,27,1982
+792,From give choose tough,62,66.29,7,2023
+793,Term subject visit full religious,77,32.95,25,1999
+794,Which ground,67,28.37,29,2010
+795,Name wonder,73,54.37,12,2013
+796,Pressure white,26,79.71,1,2007
+797,Lot by meet big run,12,28.45,13,2000
+798,Born reason know thousand outside,58,70.35,23,1997
+799,Any true determine natural,91,76.25,33,2017
+800,Partner big yard campaign all,27,69.85,1,2002
+801,Against house course manage,86,63.02,11,2006
+802,Whatever technology wrong I statement,5,23.0,29,1981
+803,Car right art like,93,38.24,33,2010
+804,Reason study society,43,40.29,30,1983
+805,Paper parent police both,62,15.96,34,2023
+806,Democratic officer drop,16,75.9,38,1991
+807,Rule PM role measure staff,31,71.81,25,1986
+808,Environmental idea accept,28,49.9,8,1992
+809,Through they treatment only democratic,63,42.32,23,2018
+810,Realize produce art magazine decision,83,51.18,19,2023
+811,So table,14,58.99,13,1995
+812,Send majority talk foreign shoulder,64,38.79,32,2008
+813,Father tough,2,33.41,32,1980
+814,About bit attack,63,50.51,2,2020
+815,Main small those case,97,38.31,23,1987
+816,Arm finish,4,67.31,17,1982
+817,Culture set whether radio,64,12.51,29,2013
+818,Season interview prove,27,63.29,19,2008
+819,Girl mouth parent by,68,61.15,32,1992
+820,Conference society financial figure bank,2,25.96,33,2002
+821,Free per boy past story,60,24.91,21,2022
+822,Pressure mouth effect key,37,58.31,0,1998
+823,Start wife visit,34,53.41,30,1991
+824,Possible base international,66,14.04,0,1992
+825,West usually central,16,70.68,35,2012
+826,Her tree surface,32,65.43,24,1996
+827,Stay strong,32,61.75,5,2007
+828,Last information,64,62.09,20,2019
+829,Statement where certain set thus,65,68.0,16,1997
+830,Base her,6,48.56,36,2000
+831,Within decide allow watch,96,51.13,1,1992
+832,Arm great say successful,24,78.02,2,2009
+833,Each probably against,81,72.12,27,1980
+834,Street hospital pressure price,92,67.74,9,2007
+835,By memory ever up account,80,53.75,3,1987
+836,Result different effect,96,35.31,13,2021
+837,Among former,5,72.93,38,2018
+838,Although meet,85,53.57,24,1992
+839,Call world life,29,11.49,38,1990
+840,Listen fast improve reveal,32,35.08,25,2002
+841,Wife dark ground,34,77.83,15,1981
+842,Be community let,57,51.81,37,1987
+843,Thus risk,46,29.26,3,1991
+844,Add forward big,88,42.4,10,1981
+845,Second life trial,16,20.22,40,2018
+846,Party identify pull,46,25.05,35,2000
+847,Open upon everything stock,1,11.54,8,1992
+848,Leave final,11,56.5,34,1988
+849,Natural personal style,90,12.73,24,2013
+850,Argue such only,17,66.54,3,1999
+851,Road surface within material,68,71.21,2,2016
+852,Affect size since his,31,73.7,3,2002
+853,Quality third tree system ball,39,47.15,28,1993
+854,Decision art main couple,67,35.12,31,2018
+855,Main your,58,71.95,37,2013
+856,Bit response impact education,96,20.53,21,2020
+857,Society you,88,32.92,33,1986
+858,Save Congress charge,48,70.06,34,1990
+859,Sure lawyer win professor fish,63,20.17,12,2012
+860,Population look no,18,40.56,17,1988
+861,Wind interesting,76,34.85,6,2012
+862,Leave room scene,44,22.93,23,2003
+863,Stuff parent,83,42.69,26,2013
+864,Form rock,68,56.3,5,2001
+865,Everybody bit lawyer investment,44,51.42,15,1983
+866,Sense nice contain,66,18.68,27,2019
+867,Case natural art,43,69.15,16,2012
+868,Money institution by child,59,37.14,21,1980
+869,Surface talk risk change,91,63.35,32,2015
+870,Top choose news,37,50.96,7,2000
+871,Management one top despite foreign,95,12.13,36,1988
+872,Play would appear officer remain,84,27.87,26,1998
+873,Than our management,6,26.61,21,1981
+874,Health medical paper few draw,57,75.29,26,2018
+875,Analysis third between eight add,47,34.27,22,2018
+876,Half keep option,90,65.99,13,2003
+877,Majority girl,43,45.58,4,1983
+878,Stand one not,65,62.96,8,2022
+879,Approach economic upon history,20,41.26,21,1999
+880,Issue add staff,58,63.73,28,2020
+881,Class item knowledge war affect,64,75.36,17,2003
+882,Subject teach now economy,74,71.17,23,1998
+883,Sometimes speech at tend,91,18.22,13,2012
+884,Eye particularly herself,58,20.39,18,2017
+885,Foot exactly example our,32,43.78,30,2019
+886,Training north light out about,5,11.19,3,1998
+887,Understand the example important,43,72.49,38,1998
+888,Rest successful,71,68.25,36,2006
+889,Race card type same,60,72.75,6,2007
+890,Speak magazine crime,55,19.28,36,2001
+891,Form about,54,56.13,31,1987
+892,Report west without,20,33.09,37,1994
+893,People bad,44,73.11,10,2008
+894,School thousand huge none,56,41.27,39,1981
+895,Father member blood pressure,49,31.08,9,1989
+896,Skill beautiful business,63,20.33,30,2005
+897,These beat,47,23.81,4,1998
+898,Soldier billion majority create,48,76.39,40,1992
+899,Discussion read top,36,17.23,40,1983
+900,Stuff factor,8,33.73,23,2001
