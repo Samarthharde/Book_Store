@@ -34,7 +34,7 @@ The system includes the following core tables:
 
 ## 🗂 Schema Diagram
 
-![Bookstore Schema](outputs/bookstore_schema.png)
+![Bookstore Schema](Output/Book_store_schema.png)
 
 ---
 
@@ -44,7 +44,7 @@ Here are examples of some important queries used in the project:
 
 1. "Show each customer’s total number of orders."
 
-![](outputs/q1.png)
+![](Outputs/Q1.png)
 
 2. "Total revenue per customer."
 
