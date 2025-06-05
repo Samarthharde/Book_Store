@@ -140,7 +140,7 @@ Here are examples of some important queries used in the project:
 
 ![](Output/Q20.png)
 
-👉 Full list of *20+ analytical queries* available in [LIBRARY_MANAGEMENT_CODE.sql](library_management_code.sql)
+👉 Full list of *20+ analytical queries* available in [Book_store_code.sql](Book_store_code.sql)
 
 ---
 ## 📌 Key Insights
